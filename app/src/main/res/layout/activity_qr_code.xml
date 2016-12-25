@@ -37,7 +37,8 @@
         android:layout_marginTop="37dp"
         android:id="@+id/button"
         android:layout_below="@+id/imageView3"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:onClick="logOut"/>
 
     <Button
         android:text="Log out"
